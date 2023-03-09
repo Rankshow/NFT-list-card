@@ -1,7 +1,20 @@
 .App {
   text-align: center;
+  background-color: #8b9cbe;
+  
 }
-
+.crptoHeader {
+  background-color: #190B28;
+  height: 100px;
+  margin-bottom: 30px;
+}
+input{
+  margin-top: 45px;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
